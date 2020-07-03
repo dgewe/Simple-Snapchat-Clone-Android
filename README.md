@@ -1,5 +1,5 @@
 # Snapchat Clone Android
-[Code Shortcut](https://github.com/dgewe/Android_Snapchat_Clone/tree/master/app/src/main/java/com/fredrikbogg/snapchatclone)
+[Code Shortcut](app/src/main/java/com/fredrikbogg/snapchatclone)
 
 ## Description
 This application is a very light 'Clone' of Snapchat providing some of it's basic functionality, e.g creating a user and capturing photos to send it to other users.
