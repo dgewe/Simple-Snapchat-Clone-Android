@@ -1,4 +1,4 @@
-# Android Snapchat Clone
+# Snapchat Clone Android
 [Code Shortcut](https://github.com/dgewe/Android_Snapchat_Clone/tree/master/app/src/main/java/com/fredrikbogg/snapchatclone)
 
 ## Description
