@@ -18,20 +18,6 @@ The goal with the application was to learn about basic camera functionality and 
 * Android Phone with a camera (front + back)
 * Basic knowledge about Android Studio and preferably Firebase
 
-## Setup
-#### Project
-1. Download and open the project in Android Studio
-2. Connect your phone and start the application in Android Studio
-
-#### Firebase
-  1. Create a Firebase project at https://firebase.google.com/
-  2. Add a Android App in the project overview and follow the instructions
-
-#### Firebase services
- - Setup Authentication and use the Sign-in method 'Email/Password'
- - Setup Realtime Database
- - Setup Storage
-
 ## Screenshots
 <table>
 <thead>
@@ -70,6 +56,20 @@ The goal with the application was to learn about basic camera functionality and 
 </tr>
 </tbody>
 </table>
+
+## Setup
+#### Project
+1. Download and open the project in Android Studio
+2. Connect your phone and start the application in Android Studio
+
+#### Firebase
+  1. Create a Firebase project at https://firebase.google.com/
+  2. Add a Android App in the project overview and follow the instructions
+
+#### Firebase services
+ - Setup Authentication and use the Sign-in method 'Email/Password'
+ - Setup Realtime Database
+ - Setup Storage
 
 ## Features
 
