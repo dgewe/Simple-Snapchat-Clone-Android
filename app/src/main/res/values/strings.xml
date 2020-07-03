@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Snapchat Clone</string>
+    <string name="template_text">Template Text</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="captured_image">Captured image</string>
+    <string name="send">Send</string>
+    <string name="snaps">Snaps</string>
+    <string name="log_out">log out</string>
+    <string name="capture_button">Capture button</string>
+    <string name="rotate_camera">Rotate camera</string>
+    <string name="toggle_camera_flash">Toggle camera flash</string>
+    <string name="template_time">6/23 4:25 PM</string>
+    <string name="icon">Icon</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="_8">8</string>
+</resources>

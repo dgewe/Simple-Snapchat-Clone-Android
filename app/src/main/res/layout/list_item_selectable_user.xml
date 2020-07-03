@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nameTextView"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+    android:fontFamily="@font/nunito_semibold"
+    android:gravity="center_vertical"
+    android:paddingStart="15dp"
+    android:paddingEnd="15dp"
+    android:text="@string/template_text"
+    android:textColor="@color/colorSecondary"
+    android:textSize="24sp" />

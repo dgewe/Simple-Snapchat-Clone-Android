@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="false">
+        <shape android:shape="rectangle">
+            <padding android:bottom="10dp" />
+            <gradient android:width="155dp" android:angle="90" android:centerColor="@android:color/transparent" android:centerX="0.05" android:startColor="#868686" />
+        </shape>
+    </item>
+    <item android:state_checked="true">
+        <shape android:shape="rectangle">
+            <gradient android:width="155dp" android:angle="90" android:centerColor="@android:color/transparent" android:centerX="0.05" android:startColor="@color/colorBlue" />
+        </shape>
+    </item>
+</selector>
