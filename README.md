@@ -4,7 +4,7 @@
 ## Description
 This is a demo application built with the goal to learn about basic camera functionality and to create a fun and useful application.
 
-The application provides some of the basic functionality of Snapchat, e.g creating a user and capturing photos to send it to other users.
+The application provides some of the basic functionality from Snapchat, e.g creating a user and capturing photos to send it to other users.
 
 #### Technologies
 * Android Studio
