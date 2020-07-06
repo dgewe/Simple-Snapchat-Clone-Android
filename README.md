@@ -2,9 +2,9 @@
 [Code Shortcut](app/src/main/java/com/fredrikbogg/snapchatclone)
 
 ## Description
-This application is a very light 'Clone' of Snapchat providing some of it's basic functionality, e.g creating a user and capturing photos to send it to other users.
+This is a demo application built with the goal to learn about basic camera functionality and to create a fun and useful application.
 
-The goal with the application was to learn about basic camera functionality and to create a fun and useful application.
+The application provides some of the basic functionality of Snapchat, e.g creating a user and capturing photos to send it to other users.
 
 #### Technologies
 * Android Studio
