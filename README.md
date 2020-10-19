@@ -1,4 +1,4 @@
-# Snapchat Clone Android
+# Simple Snapchat Clone Android
 [Code Shortcut](app/src/main/java/com/fredrikbogg/snapchatclone)
 
 ## Description
